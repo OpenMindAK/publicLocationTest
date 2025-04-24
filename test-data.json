@@ -9,6 +9,7 @@
   "location": {
     "latitude": 38.289,
     "longitude": 11.158,
+    "coordinates": [11.158, 38.289],
     "description": "Mediterranean Sea"
   },
   "lastUpdate": "2025-04-15T18:30:00Z"
