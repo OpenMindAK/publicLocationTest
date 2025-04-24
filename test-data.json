@@ -1,0 +1,15 @@
+{
+  "vessel": "Test Ship",
+  "status": 1,
+  "metrics": {
+    "speed": 15.7,
+    "fuel": 78.3,
+    "temperature": 24.5
+  },
+  "location": {
+    "latitude": 38.289,
+    "longitude": 11.158,
+    "description": "Mediterranean Sea"
+  },
+  "lastUpdate": "2025-04-15T18:30:00Z"
+}
